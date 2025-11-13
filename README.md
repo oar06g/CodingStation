@@ -6,7 +6,7 @@ This repository serves as a creative space where ideas turn into working code �
 
 ---
 
-## 🧩 Purpose
+## Purpose
 
 The goal of **CodingStation** is to:
 - Develop and document software solutions for everyday technical problems.
@@ -57,7 +57,7 @@ Feel free to use, modify, and distribute the code with proper attribution.
 
 **[LeoLan]**  
 [LinkedIn](https://www.linkedin.com/in/oar06g/) ——
-[Gmail](oar06g@gmail.com)
+[Gmail](mailto:oar06g@gmail.com)
 
 ---
 
