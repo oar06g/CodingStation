@@ -15,7 +15,7 @@ The goal of **CodingStation** is to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 The technologies used in this lab vary by project, but may include:
 
@@ -24,13 +24,13 @@ The technologies used in this lab vary by project, but may include:
 
 ---
 
-## 📂 Structure
+## Structure
 
 Each folder within this repository represents an individual project or experiment.
 
 ---
 
-## 🧠 Learning Focus
+## Learning Focus
 
 Through **CodingStation**, I aim to:
 - Strengthen problem-solving and software design skills.  
@@ -39,14 +39,14 @@ Through **CodingStation**, I aim to:
 
 ---
 
-## 🚧 Current Status
+## Current Status
 
 This lab is under continuous development — new experiments and solutions will be added regularly.  
 Stay tuned for updates!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use, modify, and distribute the code with proper attribution.
